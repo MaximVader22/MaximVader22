@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @MaximVader22.
-- 👀 I’m interested in programminig and Math.
-- 🌱 I’m currently learning Python and Godot.
-- 💞️ I’m not looking to collaborate.
-- 📫 How to reach me: use the Power.
+
